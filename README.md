@@ -1,2 +1,24 @@
 # E-ID
 
+<img width="972" height="901" alt="3d view" src="https://github.com/user-attachments/assets/362eb614-9255-4c9a-9de8-da1497f039a0" />
+**WHAT IS IT**
+*SO BASICALLY THIS IS A BADGE OR ID IN A DIGITAL CARD BASICALLY I BUILD THIS MAINLY O UNDERSTAND PCB WORKING AND FOR FIRMWARE I REALLY AMDE IT SIMPLE BECUZ I WANT TO UNDERSTAND FIRMWARE I AM NOT FIMILAR WITH CODE .
+
+**FEATURES**
+* IT INCLUDE A ESP-32 WROOM 32D DEVELOPMENT BOARD WHICH HAS A BUILT IN WIFI AND USB C CABLE.
+* I USE A ST7789 TFT DISPLAY WHICH IS A GOOOD AND CHEAP OPTION
+* I ALSO MADE A PCB FOR PERMANENT WIRING.
+* ITS ESPECIALTY IS THAT IT DISPLAYS YOUR ID CARD ON A CUTE DISPLAY
+* 2 CAPACITORS TO CONTROL FLICKERING ONES VALUE IS 10UF AND THE OTHER ONE IS 0.1UF.
+* ALSO SOME COOL STICKER ON PCB .
+**IMAGES**
+*PCB EDITOR VIEW:
+  <img width="1096" height="798" alt="pcb of e-id" src="https://github.com/user-attachments/assets/6bcfbb4b-3776-472c-a423-c5867ec3bd49" />
+*SCHEMATICS:
+<img width="1435" height="881" alt="schematics of e-id " src="https://github.com/user-attachments/assets/28d64db0-a810-46e7-9a03-9e7d99bd2023" />
+*DRC ERRORS:
+<img width="1920" height="1080" alt="drc" src="https://github.com/user-attachments/assets/c430acfb-cf5a-4e93-89c6-c775a040ba1f" />
+
+
+
+
