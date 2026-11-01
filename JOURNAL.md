@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cdfoau438gncfcr2us9fi5kv)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> ANIMATED DIGITAL ID CARD SHOWS YOUR NAME AND A SMALL ANIMATED AVATAR ON A DISPALY .IT IS WUITE SIMPLE BUT I WANTED TO BUILD IT.
+> ANIMATED DIGITAL ID CARD SHOWS YOUR NAME AND A SMALL ANIMATED AVATAR ON A DISPALY .IT IS QQQUITE SIMPLE BUT I WANTED TO BUILD IT.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
