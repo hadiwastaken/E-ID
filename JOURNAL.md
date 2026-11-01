@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 10.91h | 9 |
+| Week 4 | Tier 1 | 11.01h | 9 |
 
 ## Contents
 
@@ -114,9 +114,11 @@ so in this sesssion i setup my environment and clear doubt also i watched tuturi
 
 ### 2026-11-01: 1-11-2026
 
-**0.88h**
+**0.98h**
 
 1-11-2026
 IN THIS SESSION I WRITE MY README FILL MY BOM CSV AND ASLO RECHECK ALL THINGS
 
 [Timelapse](https://lookout.hackclub.com/api/media/bd9aa5de-42cc-4ea3-abc0-89bed4f00ee1/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/b2073e7c-675e-49ce-a6a3-b2af3ab1b357/video.mp4)
