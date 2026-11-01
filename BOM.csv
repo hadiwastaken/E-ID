@@ -2,4 +2,4 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 ESP32-WROOM32D,1,DARAZ,$5.99,$5.99,https://www.daraz.pk
 ST7789,1,DARAZ,$5.19,$5.19,https://www.daraz.pk
 PCB,1,JLPCB,$4.00,$4.00,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
-Estimated total shipping,1,,,$0.00,
+Estimated total shipping,1,,,$14.00,
