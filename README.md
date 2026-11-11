@@ -1,6 +1,6 @@
 # E-ID
+<img width="1014" height="888" alt="E-ID(3D VIEW NEW)PIC" src="https://github.com/user-attachments/assets/f63842b2-294b-49d4-99bf-6db675d6f83a" />
 
-<img width="972" height="901" alt="3d view" src="https://github.com/user-attachments/assets/362eb614-9255-4c9a-9de8-da1497f039a0" />
 **WHAT IS IT**
 *SO BASICALLY THIS IS A BADGE OR ID IN A DIGITAL CARD BASICALLY I BUILD THIS MAINLY O UNDERSTAND PCB WORKING AND FOR FIRMWARE I REALLY AMDE IT SIMPLE BECUZ I WANT TO UNDERSTAND FIRMWARE I AM NOT FIMILAR WITH CODE .
 
@@ -13,7 +13,8 @@
 * ALSO SOME COOL STICKER ON PCB .
 **IMAGES**
 *PCB EDITOR VIEW:
-  <img width="1096" height="798" alt="pcb of e-id" src="https://github.com/user-attachments/assets/6bcfbb4b-3776-472c-a423-c5867ec3bd49" />
+<img width="871" height="782" alt="E-ID(PCBNEW)PIC" src="https://github.com/user-attachments/assets/d7821323-1c84-4a60-80c2-740e1d893f2c" />
+
 *SCHEMATICS:
 <img width="1435" height="881" alt="schematics of e-id " src="https://github.com/user-attachments/assets/28d64db0-a810-46e7-9a03-9e7d99bd2023" />
 *DRC ERRORS:
